@@ -1,3 +1,4 @@
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mariia-m-analytics/ecommerce-sales-customer-analysis/blob/main/Ecommerce_Sales_Customer_Analysis_Portfolio%281%29.ipynb)
 # E-commerce Sales & Customer Analysis
 
 **Portfolio Project | Python • SQL • BigQuery • Tableau**
